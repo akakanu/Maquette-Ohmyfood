@@ -1,2 +1,2 @@
-# Maquette-Ohmyfood
+#Ohmyfood
 HTML &amp; CSS animation
